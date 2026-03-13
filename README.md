@@ -42,7 +42,7 @@ Aqui estão alguns projetos que desenvolvi durante meus estudos:
 ## 📫 Contato
 
 📧 Email: anderson_ribeiro153@estudante.sesisenai.org.br 
-💼 GitHub: https://github.com/andersonribeiro153-pixe
+💼 GitHub: https://github.com/andersonribeiro153-pixel
 
 ---
 
