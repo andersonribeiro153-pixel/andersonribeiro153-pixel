@@ -1,6 +1,10 @@
 # 👋 Olá, eu sou Anderson Ribeiro
 
-🎓 Estudante da Aprendizagem Industrial em progamador de sistema de informaçao  
+🎓 Estudante da Aprendizagem Industrial em progamador de sistema de informaçao. (SENAI) Contrado pela empresa Seara alimentos
+🎓 Estudante DO 3° ano Escola de Educação Basica Governador Bornhusen 2026.
+
+
+
 💻 Interessado em tecnologia, programação e inovação  
 
 ---
